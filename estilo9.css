@@ -1,0 +1,15 @@
+body{
+    background-color: darkkhaki;
+}
+h1{
+    color: rgba(39, 39, 204, 0.685);
+    font-family: times new roman;
+    font-size: 25px;
+    text-align: center;
+    text-decoration: underline;
+}
+p{
+    color: #555555;
+    font-family: verdana;
+    text-align: justify;
+}
